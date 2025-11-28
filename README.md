@@ -2,6 +2,8 @@
 
 This project consists of a game developed in Python using the Pygame library, controlled by a distance sensor (Sharp Infrared) connected to a Raspberry Pi Pico.
 
+https://github.com/user-attachments/assets/b5c945fd-b056-463c-ac68-fbdcdc10387d
+
 ## Functionality
 
 The game features a vertical bar where a target moves randomly. The player controls a marker that must be aligned with the target using the distance sensor.
